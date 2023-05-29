@@ -6,4 +6,14 @@
 &nbsp;
 <a href="https://riklus.github.io"><img src="./assets/icons/explorer.svg" width="24"></a>
 
-[![riklus's GitHub stats](https://github-readme-stats.vercel.app/api?username=riklus&theme=tokyonight)]()
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=riklus&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=riklus&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=riklus&show_icons=true" />
+</picture>
