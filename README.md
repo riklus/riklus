@@ -1,7 +1,6 @@
 ### Hi there :wave:, I am Riccardo!
 
-:it: Studying @ University of Trento – UNITN  
-And working as a Vulnerability Assessment Assistant @ FBK!
+:it: Studying @ Technical University of Denmark – DTU
 
 <a href="https://www.linkedin.com/in/riccardo-lussana/?locale=en_US"><img src="./assets/icons/linkedin.svg" width="24"></a>
 &nbsp;
